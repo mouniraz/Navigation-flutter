@@ -11,7 +11,7 @@ class Dog(
     color: String,
     weight: Double,
     location: String,
-    image: Int,
+    image: String,
     about: String,
      owner:Owner
 ) 
