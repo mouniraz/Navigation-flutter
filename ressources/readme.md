@@ -16,4 +16,4 @@ class Dog(
      owner:Owner
 ) 
 
-la classe Owner est caractérisée par data Owner(name: String, bio: String, image: Int)
+la classe Owner est caractérisée par data Owner(name: String, bio: String, image: String)
